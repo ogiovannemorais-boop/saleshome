@@ -55,7 +55,7 @@ const HeroSection = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, delay: 0.6, ease: "easeOut" }}
         >
-          Atendimento especializado, 10 noites de adaptação e lojas físicas com
+          Atendimento com especialistas, 10 noites de adaptação e lojas físicas com
           avaliação 4,9 no Google.
         </motion.p>
 
