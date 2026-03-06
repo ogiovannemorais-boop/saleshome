@@ -35,7 +35,7 @@ const stores = [
     phone: "(11) 94521-3145",
     phoneLink: "tel:+5511945213145",
     whatsapp: "https://wa.me/5511945213145",
-    maps: "https://www.google.com/maps/place/Probel+Exclusiva+Shopping+Internacional+Guarulhos/@-23.4897768,-46.5515392,17z",
+    maps: "https://www.google.com/maps/place/Probel+Exclusiva+Shopping+Internacional+Guarulhos/@-23.4897768,-46.5515392,17z/data=!3m1!4b1!4m6!3m5!1s0x94ce5f66ec2fa535:0x315c7c21862fe5de!8m2!3d-23.4897817!4d-46.5489643!16s%2Fg%2F11k9z9jzym?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D",
     rating: "4,9",
   },
 ];
